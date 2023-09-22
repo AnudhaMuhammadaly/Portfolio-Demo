@@ -5,7 +5,7 @@
     padding: 0px;
 }
 nav{
-    background-color: black;
+    background-color: rgb(161, 9, 9);
     display: flex;
     justify-content: center;
     width: 100%;
@@ -93,7 +93,7 @@ h3:hover{
 }
 .gallery{
     justify-content: space-between;
-    margin left: 150px;
+    margin-left: 150px;
     }
 .gallery img{
     width: 400px;
